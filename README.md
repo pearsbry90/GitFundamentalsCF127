@@ -7,3 +7,4 @@ Here is a growing collection of resources and helpful commands to know when work
 Add new information later
 
 - [git init](./commands/Init.md)
+- [git add](./commands/Add.md)
