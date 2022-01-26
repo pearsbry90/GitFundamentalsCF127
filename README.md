@@ -16,3 +16,4 @@ Add new information later
 - [git commit](./commands/Commit.md)
 - [git remote](./commands/Remote.md)
 - [git push](./commands/Push.md)
+- [git pull](./commands/Pull.md)
