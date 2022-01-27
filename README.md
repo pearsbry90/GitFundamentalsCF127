@@ -17,3 +17,4 @@ Add new information later
 - [git remote](./commands/Remote.md)
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
+- [git status](./commands/Status.md)
